@@ -1,4 +1,4 @@
-void bubbleSort(int sort[], int size)
+void bubbleSort(int* sort, int size)
 {
     for(int i = 0; i < size; ++i)
     {
